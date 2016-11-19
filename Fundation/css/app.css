@@ -2,3 +2,7 @@
 .derecha {
     text-align: right;
 }
+
+#fondo {
+    background-color: bisque;
+}
